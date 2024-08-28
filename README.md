@@ -50,5 +50,10 @@ Once the application is running, open the provided local URL in your web browser
 <br/>
 
 ## Customization
-You can easily customize the ChatBot’s behavior by modifying the API interaction code in main.py. Additionally, the Streamlit interface can be tailored to fit specific design requirements.
+You can easily customize the ChatBot’s behavior by modifying the API interaction code in main.py. Additionally, the Streamlit interface can be tailored to fit specific design requirements. <br/>
+<br/>
 
+## Acknowledgments
+* Streamlit for providing an easy-to-use framework for creating web applications.
+* Gemini API for powering the conversational AI.
+* dotenv for managing environment variables.

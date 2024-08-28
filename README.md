@@ -46,3 +46,6 @@ Create a .env file in the root directory of the project and add your Gemini API 
 <br/>
 
 ## Usage
+Once the application is running, open the provided local URL in your web browser. You can start interacting with the ChatBot by typing your queries in the text input box. <br/>
+<br/>
+

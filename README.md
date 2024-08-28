@@ -35,13 +35,14 @@ This project is a simple ChatBot application built using the Gemini API and Stre
 
 4. Set up the .env file: <br/>
 Create a .env file in the root directory of the project and add your Gemini API key:
-  ```bash
-  GEMINI_API_KEY=your_api_key_here
-  ```
+   ```bash
+   GEMINI_API_KEY=your_api_key_here
+   ```
 
 5. Run the Streamlit application:
    ```bash
    streamlit run app.py
    ```
+<br/>
 
-   
+## Usage

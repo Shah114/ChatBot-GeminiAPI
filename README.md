@@ -9,4 +9,10 @@ This project is a simple ChatBot application built using the Gemini API and Stre
 * Environment Variables: API key is managed securely using a .env file and the dotenv library. <br/>
 <br/>
 
-##
+## Setup and Installation
+**Prerequisites**
+* Python 3.7 or higher
+* Streamlit
+* Gemini API key <br/>
+
+**Installation**

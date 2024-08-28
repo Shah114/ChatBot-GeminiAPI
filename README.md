@@ -41,11 +41,14 @@ Create a .env file in the root directory of the project and add your Gemini API 
 
 5. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 <br/>
 
 ## Usage
 Once the application is running, open the provided local URL in your web browser. You can start interacting with the ChatBot by typing your queries in the text input box. <br/>
 <br/>
+
+## Customization
+You can easily customize the ChatBot’s behavior by modifying the API interaction code in main.py. Additionally, the Streamlit interface can be tailored to fit specific design requirements.
 

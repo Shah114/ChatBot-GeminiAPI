@@ -18,7 +18,7 @@ This project is a simple ChatBot application built using the Gemini API and Stre
 **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatbot-gemini-api.git
+   git clone https://github.com/Shah114/chatbot-gemini-api.git
    cd chatbot-gemini-api
    ```
    

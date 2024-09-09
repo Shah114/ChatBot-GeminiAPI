@@ -17,29 +17,34 @@ This project is a simple ChatBot application built using the Gemini API and Stre
 
 **Installation**
 1. Clone the repository:
+ 
    ```bash
    git clone https://github.com/Shah114/chatbot-gemini-api.git
    cd chatbot-gemini-api
    ```
    
 2. Create a virtual environment (optional but recommended):
-   ```bash
+
+    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. Install the required packages:
+4. Install the required packages:
+ 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Set up the .env file: <br/>
+5. Set up the .env file: <br/>
 Create a .env file in the root directory of the project and add your Gemini API key:
+ 
    ```bash
    GEMINI_API_KEY=your_api_key_here
    ```
 
-5. Run the Streamlit application:
+6. Run the Streamlit application:
+   
    ```bash
    streamlit run main.py
    ```

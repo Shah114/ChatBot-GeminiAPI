@@ -61,4 +61,7 @@ You can easily customize the ChatBot’s behavior by modifying the API interacti
 ## Acknowledgments
 * Streamlit for providing an easy-to-use framework for creating web applications.
 * Gemini API for powering the conversational AI.
-* dotenv for managing environment variables.
+* dotenv for managing environment variables. <br/>
+
+## Contrubuting
+Contributions are welcome! Feel free to open an issue or submit a pull request.

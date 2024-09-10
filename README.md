@@ -63,5 +63,6 @@ You can easily customize the ChatBot’s behavior by modifying the API interacti
 * Gemini API for powering the conversational AI.
 * dotenv for managing environment variables. <br/>
 
+
 ## Contrubuting
 Contributions are welcome! Feel free to open an issue or submit a pull request.

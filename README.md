@@ -64,5 +64,5 @@ You can easily customize the ChatBot’s behavior by modifying the API interacti
 * dotenv for managing environment variables. <br/>
 
 
-## Contrubuting
+## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.

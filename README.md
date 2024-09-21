@@ -65,4 +65,4 @@ You can easily customize the ChatBot’s behavior by modifying the API interacti
 
 
 ## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request. <br/>
